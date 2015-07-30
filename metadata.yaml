@@ -17,13 +17,13 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Short stories'
-- '!lcsh:American fiction -- 19th century'
-- '!lcsh:Fantasy fiction'
-- '!lcsh:Poe, Edgar Allan, 1809-1849'
 - '!lcsh:Indexes'
+- '!lcsh:Fantasy fiction'
+- '!lcsh:American fiction -- 19th century'
+- '!lcsh:Poe, Edgar Allan, 1809-1849'
 - '!lcc:PS'
 - '!lcsh:Horror tales, American'
+- '!lcsh:Short stories'
 title: 'The Works of Edgar Allan Poe, The Raven Edition
 
   Table Of Contents And Index Of The Five Volumes'
